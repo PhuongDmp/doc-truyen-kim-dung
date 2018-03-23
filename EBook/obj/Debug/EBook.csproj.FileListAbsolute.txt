@@ -1,0 +1,46 @@
+C:\Users\ThanhKaiba\source\repos\EBook\EBook\bin\Debug\EBook.exe.config
+C:\Users\ThanhKaiba\source\repos\EBook\EBook\bin\Debug\EBook.exe
+C:\Users\ThanhKaiba\source\repos\EBook\EBook\bin\Debug\EBook.pdb
+C:\Users\ThanhKaiba\source\repos\EBook\EBook\obj\Debug\EBook.csprojResolveAssemblyReference.cache
+C:\Users\ThanhKaiba\source\repos\EBook\EBook\obj\Debug\EBook.Form1.resources
+C:\Users\ThanhKaiba\source\repos\EBook\EBook\obj\Debug\EBook.Properties.Resources.resources
+C:\Users\ThanhKaiba\source\repos\EBook\EBook\obj\Debug\EBook.Resource.resources
+C:\Users\ThanhKaiba\source\repos\EBook\EBook\obj\Debug\EBook.csproj.GenerateResource.Cache
+C:\Users\ThanhKaiba\source\repos\EBook\EBook\obj\Debug\EBook.csproj.CoreCompileInputs.cache
+C:\Users\ThanhKaiba\source\repos\EBook\EBook\obj\Debug\EBook.exe
+C:\Users\ThanhKaiba\source\repos\EBook\EBook\obj\Debug\EBook.pdb
+C:\Users\TienThanh\source\repos\EBook\EBook\bin\Debug\EBook.exe.config
+C:\Users\TienThanh\source\repos\EBook\EBook\bin\Debug\EBook.exe
+C:\Users\TienThanh\source\repos\EBook\EBook\bin\Debug\EBook.pdb
+C:\Users\TienThanh\source\repos\EBook\EBook\obj\Debug\EBook.csprojResolveAssemblyReference.cache
+C:\Users\TienThanh\source\repos\EBook\EBook\obj\Debug\EBook.Form1.resources
+C:\Users\TienThanh\source\repos\EBook\EBook\obj\Debug\EBook.Properties.Resources.resources
+C:\Users\TienThanh\source\repos\EBook\EBook\obj\Debug\EBook.Resource.resources
+C:\Users\TienThanh\source\repos\EBook\EBook\obj\Debug\EBook.csproj.GenerateResource.Cache
+C:\Users\TienThanh\source\repos\EBook\EBook\obj\Debug\EBook.csproj.CoreCompileInputs.cache
+C:\Users\TienThanh\source\repos\EBook\EBook\obj\Debug\EBook.exe
+C:\Users\TienThanh\source\repos\EBook\EBook\obj\Debug\EBook.pdb
+C:\Users\TienThanh\Documents\Visual Studio 2017\Project\EBook\EBook\EBook\bin\Debug\EBook.exe.config
+C:\Users\TienThanh\Documents\Visual Studio 2017\Project\EBook\EBook\EBook\bin\Debug\EBook.exe
+C:\Users\TienThanh\Documents\Visual Studio 2017\Project\EBook\EBook\EBook\bin\Debug\EBook.pdb
+C:\Users\TienThanh\Documents\Visual Studio 2017\Project\EBook\EBook\EBook\obj\Debug\EBook.csprojResolveAssemblyReference.cache
+C:\Users\TienThanh\Documents\Visual Studio 2017\Project\EBook\EBook\EBook\obj\Debug\EBook.Form1.resources
+C:\Users\TienThanh\Documents\Visual Studio 2017\Project\EBook\EBook\EBook\obj\Debug\EBook.Properties.Resources.resources
+C:\Users\TienThanh\Documents\Visual Studio 2017\Project\EBook\EBook\EBook\obj\Debug\EBook.Resource.resources
+C:\Users\TienThanh\Documents\Visual Studio 2017\Project\EBook\EBook\EBook\obj\Debug\EBook.csproj.GenerateResource.cache
+C:\Users\TienThanh\Documents\Visual Studio 2017\Project\EBook\EBook\EBook\obj\Debug\EBook.csproj.CoreCompileInputs.cache
+C:\Users\TienThanh\Documents\Visual Studio 2017\Project\EBook\EBook\EBook\obj\Debug\EBook.exe
+C:\Users\TienThanh\Documents\Visual Studio 2017\Project\EBook\EBook\EBook\obj\Debug\EBook.pdb
+D:\edu3.2\dotNet\project\EBook\EBook\obj\Debug\EBook.csprojResolveAssemblyReference.cache
+D:\edu3.2\dotNet\project\EBook\EBook\obj\Debug\EBook.Form1.resources
+D:\edu3.2\dotNet\project\EBook\EBook\obj\Debug\EBook.Resource.resources
+D:\edu3.2\dotNet\project\EBook\EBook\obj\Debug\EBook.csproj.GenerateResource.Cache
+D:\edu3.2\dotNet\project\EBook\EBook\obj\Debug\EBook.exe
+D:\edu3.2\dotNet\project\EBook\EBook\obj\Debug\EBook.pdb
+D:\edu3.2\dotNet\project\EBook\EBook\bin\Debug\EBook.exe.config
+D:\edu3.2\dotNet\project\EBook\EBook\bin\Debug\EBook.exe
+D:\edu3.2\dotNet\project\EBook\EBook\bin\Debug\EBook.pdb
+D:\edu3.2\dotNet\project\EBook\EBook\obj\Debug\EBook.Properties.Resources.resources
+D:\edu3.2\dotNet\project\EBook\EBook\obj\Debug\EBook.csproj.CoreCompileInputs.cache
+D:\edu3.2\dotNet\project\EBook\EBook\obj\Debug\EBook.FormStart.resources
+D:\edu3.2\dotNet\project\EBook\EBook\obj\Debug\EBook.FormRead.resources
